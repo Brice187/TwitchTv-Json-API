@@ -1,1 +1,21 @@
-body
+body {
+	background-color: beige;
+}
+
+.header-box {
+	border-radius: 2em;
+	padding:20px;
+	background-color: darkgoldenrod;
+	text-align: center;
+	font-family: serif;
+}
+
+.entry {
+	font-size: 20px;
+	margin: 10px;
+	background-color: blanchedalmond;
+}
+
+img {
+	text-align: right;
+}
